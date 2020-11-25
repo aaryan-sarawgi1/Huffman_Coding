@@ -1,3 +1,3 @@
 The aim of this project is to create a simulation of huffman coding algorithm. The simulation is visualized using a modified version of a project by David Galles (https://www.cs.usfca.edu/~galles/visualization/).It also takes help of a software from Yves Lucet, University of British Columbia Okanagan.
 
-The app uses pure javascript, html, and css - so all that is needed is a web browser. After cloning the repo, open up Huffman.html in a web browser to begin. You will be presented with an input field allowing you to customize the huffman code to simulate.
+The app uses pure javascript, html, and css - so all that is needed is a web browser.It uses jQuery JavaScript Library v1.5.2 and Includes Sizzle.js .After cloning the repo, open up Huffman.html in a web browser to begin. You will be presented with an input field allowing you to customize the huffman code to simulate.
